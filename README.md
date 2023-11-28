@@ -1,3 +1,3 @@
-# CRUD_APP1![Screenshot (40)](https://github.com/vikassharma011/CRUD_APP1/assets/67600288/b502420b-4158-44dc-998e-ca9e43be0118)
-![Screenshot (41)](https://github.com/vikassharma011/CRUD_APP1/assets/67600288/68de0813-c373-40a1-893d-a1a79154d3c0)
-![Screenshot (42)](https://github.com/vikassharma011/CRUD_APP1/assets/67600288/004769fc-d2eb-4282-a3f3-efafbbb04ec9)
+# CRUD_APP1!![Screenshot (40)](https://github.com/vikassharma011/CRUD_APP1/assets/67600288/067c750e-198b-4334-ab28-7876089fc5ae)
+![Screenshot (41)](https://github.com/vikassharma011/CRUD_APP1/assets/67600288/36227949-f96c-484a-a479-a5ffa502b926)
+![Screenshot (42)](https://github.com/vikassharma011/CRUD_APP1/assets/67600288/2dda24cb-7c6a-4981-b5c5-399be1fe8dcf)
